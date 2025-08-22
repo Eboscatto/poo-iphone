@@ -31,7 +31,7 @@ public class IPhone implements ReprodutoMusical,AparelhoTelefonico,NavegadorInte
     // Médotos do NavegadorInternet
 
     @Override
-    public void abrirPagina(String url) {
+    public void exibirPagina(String url) {
 
         System.out.println("Abrindo página..." + url);
     }
@@ -43,9 +43,9 @@ public class IPhone implements ReprodutoMusical,AparelhoTelefonico,NavegadorInte
     }
 
     @Override
-    public void fecharPagina() {
+    public void adicionarNovaAba() {
 
-        System.out.println("Fechando navegador...");
+        System.out.println("Adicionando nova aba...");
     }
 
     // Métodos do ReprodutorMusical

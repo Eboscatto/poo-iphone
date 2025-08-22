@@ -1,5 +1,5 @@
 public interface NavegadorInternet {
-    void abrirPagina(String url);
+    void exibirPagina(String url);
     void atualizarPagina();
-    void fecharPagina();
+    void adicionarNovaAba();
 }
