@@ -28,11 +28,11 @@ A documentação das funcionalidades da aplicação pode ser acessada neste link
 
 ## 🛠 Tecnologias
 
-As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
+As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 - **[Java 17](https://www.oracle.com/java)**
 - **[Visual Studio Code](https://code.visualstudio.com/)**
-- **[Makdown](https://www.markdownguide.org/getting-started/)**
+- **[Markdown](https://www.markdownguide.org/getting-started/)**
 
 ---
 
