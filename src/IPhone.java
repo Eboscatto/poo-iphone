@@ -1,4 +1,4 @@
-public class IPhone implements ReprodutoMusical,AparelhoTelefonico,NavegadorInternet {
+public class IPhone implements ReprodutorMusical,AparelhoTelefonico,NavegadorInternet {
 
     private String modelo;
     private String sistemaOperacional;
